@@ -3,3 +3,4 @@ Hola como estas amios
 probar cerrar issue
 
 cerrar issue 1
+cerrar issue 2

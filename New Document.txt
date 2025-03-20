@@ -5,4 +5,4 @@ probar cerrar issue
 cerrar issue 1
 cerrar issue 2
 sfsdfsdf
-close issue
+close issue padre
